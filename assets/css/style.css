@@ -1,0 +1,67 @@
+.startGame {
+    
+
+}
+
+.row{
+    text-align: center;
+}
+
+
+.container {
+    height: auto;
+    background: url("../images/pink_dust.png");
+
+}
+
+
+
+#questionSpot {
+    color: rgb(216, 37, 207);
+    margin-top: 40px;
+    border: #fff 5px solid;
+  border-radius: 6px;
+    padding: 10px;
+    font-size: 100px;;
+}
+
+#newQuestion {
+    font-size: 37px;
+}
+
+
+
+#answers {
+    font-size: 23px;
+}
+
+.choices {
+    border: solid 5px #fff;
+    color: rgb(216, 37, 207);
+    display: block;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+/* .choices, .pickAnswer:hover {
+    display: block;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 6px;
+} */
+
+.choices:hover {
+    border: solid 5px #f1c40f;
+    cursor: pointer;
+    
+}
+
+#timer {
+ color: rgb(216, 37, 207);
+ font-size: 100px;
+ 
+
+    
+    
+}
