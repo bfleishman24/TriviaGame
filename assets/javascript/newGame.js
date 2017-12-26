@@ -29,7 +29,7 @@ var currentQ = 0;
 var triviaQsandAs = [
     {
         question:"how many numbers are in a bakers dozen?",
-        answers:["1","12","45","6"],
+        answers:["1","13","45","6"],
         correctAnswer:1,
     },
     {

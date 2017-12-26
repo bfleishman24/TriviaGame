@@ -1,3 +1,8 @@
+// this is code that I had made but it was a verison I was not happy with as it relayed more on code I found than what I wrote.
+// I am including it because I found alot of new ideas from this and it shaped how I made my game.
+
+
+
 var correct = 0;
 var incorrect = 0;
 var noAnswer = 0;
